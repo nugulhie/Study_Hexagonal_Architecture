@@ -1,0 +1,7 @@
+SUB_MALL = 0
+CREATE = 1
+UPDATE = 2
+ACCOUNT_TYPE = {
+    0: "INDIVIDUAL",
+    6: "CORPORATE"
+}
